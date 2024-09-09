@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="questionbank">20</string>
+    <string-array name="questions">
+        <item>Who is the singer of the iconic song \'Dil Dil Pakistan\'?</item>
+        <item>Which band performed the song \'Bolo Bolo\'?</item>
+        <item>In which year was \'Ko Ko Korina\' released?</item>
+        <item>Who is the composer of \'Jazba-e-Junoon\' by Junoon?</item>
+        <item>Which song by Atif Aslam became famous in Bollywood movies?</item>
+        <item>Which Coke Studio season featured \'Afreen Afreen\' performed by Rahat Fateh Ali Khan and Momina Mustehsan?</item>
+        <item>Who wrote the song \'Aankhon Ke Sagar\' sung by Fuzon?</item>
+        <item>What is the name of the famous song sung by Nusrat Fateh Ali Khan in the movie \'Bandit Queen\'?</item>
+        <item>Which Pakistani band performed the song \'Hamesha\'?</item>
+        <item>Who is the singer of the song \'Tera Woh Pyar\' in Coke Studio?</item>
+        <item>Which Sufi song performed by Abida Parveen is widely known in Pakistan?</item>
+        <item>Who is the music director behind the hit song \'Hum Hain Pakistani\'?</item>
+        <item>Which band originally sang \'Suno Ke Mein Hun Jawan\'?</item>
+        <item>Who composed the song \'Sayonee\' by Junoon?</item>
+        <item>Which singer performed \'Tajdar-e-Haram\' in Coke Studio?</item>
+        <item>What is the name of the patriotic song performed by Junaid Jamshed?</item>
+        <item>Who sang the popular qawwali \'Mast Qalandar\'?</item>
+        <item>Which band released the hit song \'Sar Kiye Yeh Pahar\'?</item>
+        <item>Who is the vocalist of the song \'Garaj Baras\' by Ali Azmat?</item>
+        <item>Which song by Strings was used in the movie \'Zinda\'?</item>
+    </string-array>
+
+    <string-array name="options1">
+        <item>Vital Signs</item>
+        <item>Junoon</item>
+        <item>Strings</item>
+        <item>Noori</item>
+    </string-array>
+
+    <string-array name="options2">
+        <item>Strings</item>
+        <item>Noori</item>
+        <item>Aaroh</item>
+        <item>Vital Signs</item>
+    </string-array>
+
+    <string-array name="options3">
+        <item>1966</item>
+        <item>1968</item>
+        <item>1970</item>
+        <item>1973</item>
+    </string-array>
+
+    <string-array name="options4">
+        <item>Rohail Hyatt</item>
+        <item>Salman Ahmed</item>
+        <item>Shahi Hasan</item>
+        <item>Bilal Maqsood</item>
+    </string-array>
+
+    <string-array name="options5">
+        <item>Hona Tha Pyar</item>
+        <item>Jeene Laga Hoon</item>
+        <item>Woh Lamhe</item>
+        <item>Pehli Nazar Mein</item>
+    </string-array>
+
+    <string-array name="options6">
+        <item>Season 6</item>
+        <item>Season 9</item>
+        <item>Season 4</item>
+        <item>Season 7</item>
+    </string-array>
+
+    <string-array name="options7">
+        <item>Shuja Haider</item>
+        <item>Imran Momina (Emu)</item>
+        <item>Shoaib Mansoor</item>
+        <item>Atif Aslam</item>
+    </string-array>
+
+    <string-array name="options8">
+        <item>Afreen Afreen</item>
+        <item>Sanson Ki Mala</item>
+        <item>Mann Kunto Maula</item>
+        <item>Chal Chaiyya Chaiyya</item>
+    </string-array>
+
+    <string-array name="options9">
+        <item>Noori</item>
+        <item>Junoon</item>
+        <item>Strings</item>
+        <item>Fuzon</item>
+    </string-array>
+
+    <string-array name="options10">
+        <item>Momina Mustehsan</item>
+        <item>Atif Aslam</item>
+        <item>Rahat Fateh Ali Khan</item>
+        <item>Ali Zafar</item>
+    </string-array>
+
+    <string-array name="options11">
+        <item>Qawwali</item>
+        <item>Dama Dam Mast Qalandar</item>
+        <item>Man Kunto Maula</item>
+        <item>Mast Malang</item>
+    </string-array>
+
+    <string-array name="options12">
+        <item>Nusrat Fateh Ali Khan</item>
+        <item>Ali Zafar</item>
+        <item>Junaid Jamshed</item>
+        <item>Ali Noor</item>
+    </string-array>
+
+    <string-array name="options13">
+        <item>Vital Signs</item>
+        <item>Noori</item>
+        <item>Strings</item>
+        <item>Junoon</item>
+    </string-array>
+
+    <string-array name="options14">
+        <item>Rohail Hyatt</item>
+        <item>Bilal Maqsood</item>
+        <item>Salman Ahmed</item>
+        <item>Ali Azmat</item>
+    </string-array>
+
+    <string-array name="options15">
+        <item>Rahat Fateh Ali Khan</item>
+        <item>Atif Aslam</item>
+        <item>Nusrat Fateh Ali Khan</item>
+        <item>Ali Zafar</item>
+    </string-array>
+
+    <string-array name="options16">
+        <item>Vital Signs</item>
+        <item>Junoon</item>
+        <item>Strings</item>
+        <item>Aaroh</item>
+    </string-array>
+
+    <string-array name="options17">
+        <item>Abida Parveen</item>
+        <item>Nusrat Fateh Ali Khan</item>
+        <item>Rahat Fateh Ali Khan</item>
+        <item>Sabri Brothers</item>
+    </string-array>
+
+    <string-array name="options18">
+        <item>Ali Azmat</item>
+        <item>Atif Aslam</item>
+        <item>Ali Zafar</item>
+        <item>Salman Ahmed</item>
+    </string-array>
+
+    <string-array name="options19">
+        <item>Ab Khud Kuch Karna Parega</item>
+        <item>Zinda Hoon</item>
+        <item>Anjaane</item>
+        <item>Chaye Chaye</item>
+    </string-array>
+
+    <string-array name="options20">
+        <item>Channo</item>
+        <item>Sar Kiye Yeh Pahar</item>
+        <item>Hawa Hawa</item>
+        <item>Dil Dil Pakistan</item>
+    </string-array>
+
+    <integer-array name="answerbook">
+        <item>1</item>
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </integer-array>
+
+    <string name="score">Score: %1$d</string>
+    <string name="time">Time Remaining: %1$s</string>
+    <string name="question_number">Question %1$d/%2$d</string>
+    <string name="previous">Previous</string>
+    <string name="reveal">Show Answer</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="percentage">%1$d/%2$d Correctly Answered</string>
+
+</resources>
